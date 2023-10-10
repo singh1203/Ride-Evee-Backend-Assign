@@ -82,10 +82,6 @@ You can use a tool like Postman to test the API endpoints by sending HTTP reques
 3. Set up your MongoDB database and update the connection URL in the code.
 4. Start the application using `npm start`.
 
-## Contributing
-
-Contributions are welcome! Feel free to submit issues or pull requests if you have any suggestions or improvements.
-
 ## License
 
 This project is licensed under the MIT License.
